@@ -1,3 +1,3 @@
-![](https://github.com/justinwoo/justinwoo/raw/master/header.png)
+![](https://github.com/justinwoo/justinwoo/raw/master/header2.png)
 
-If you like my work and would like to support me (and get direct support), please consider becoming a sponsor: https://github.com/sponsors/justinwoo
+If you like my work and would like to get direct support from me, please sign up here: https://github.com/sponsors/justinwoo
